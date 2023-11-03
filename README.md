@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Firebase hosting
 
-<p style="color: red;">Project is not finished...It is in progress</p>
+- Project is not finished...It is in progress
 
 https://recipe-book-angular-59216.firebaseapp.com - Recipe Book Website
 
