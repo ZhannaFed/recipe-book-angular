@@ -2,7 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
-<a href="https://recipe-book-angular-59216.firebaseapp.com">Demo</a>
+## Firebase hosting
+
+<p style="color: 'red'">Project is not finished...It is in progress</p>
+
+https://recipe-book-angular-59216.firebaseapp.com - Recipe Book Website
 
 ## Development server
 
